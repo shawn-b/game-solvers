@@ -4,6 +4,10 @@
 # |  Adjust the values below to match your scrabble  |
 # |  needs. Lines that start with '#' are ignored.   |
 # |  Press CTRL+C during execution to stop search.   |
+# |                                                  |
+# |  Needed libraries (run these commands):          |
+# |  pip install pyenchant                           |
+# |  pip install termcolor                           |
 # +--------------------------------------------------+
 
 config = {
